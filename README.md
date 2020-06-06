@@ -35,6 +35,8 @@ Cosas importantes que hay que recordar. ([Documentación](https://www.prisma.io/
     );
     ```
 
+4. Se puede usar una interfaz que se llama Prisma Studio con `npx prisma studio --experimental` (Está cool, ayuda para hacer ciertos querys pero es experimental)
+
 ---
 
 ### Dudas
