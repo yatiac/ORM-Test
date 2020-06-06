@@ -60,3 +60,9 @@ Cosas importantes que hay que recordar. ([Documentación](https://www.prisma.io/
 ### Para ayuda
 
 1. Con este [repo](https://github.com/FaztWeb/typescript-mysql-rest) aprendí cosas nuevas del router de express.
+
+2. [Documentación](https://www.prisma.io/docs/understand-prisma/prisma-in-your-stack/rest) de Prisma para API's REST, y su ejemplo ([GitHub](https://github.com/prisma/prisma-examples/tree/master/typescript/rest-express)).
+
+3. Algo que considero muy importante es el [filtering](https://www.prisma.io/docs/reference/tools-and-interfaces/prisma-client/filtering) y parece ser que este ORM lo maneja muy bien.
+
+4. Buenas prácticas para crear una REST API ([Stackoverflow Blog](https://stackoverflow.blog/2020/03/02/best-practices-for-rest-api-design/))
