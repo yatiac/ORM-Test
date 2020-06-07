@@ -25,3 +25,11 @@
     * [Knex.js & TypeScript config](https://gist.github.com/tukkajukka/9893e5f111862d06044b73fa944a8741)
 
     * [knex 0.16 doesn't support knexfiles written in TypeScript](https://github.com/knex/knex/issues/2998)
+
+### Complementos
+
+1. [Schemats](https://github.com/SweetIQ/schemats) (Genera la definición de las tablas en interfaces de TypeScript)
+
+### Comparaciones
+
+1. [Sequelize vs. TypeORM vs. Objection + Knex](https://www.velotio.com/engineering-blog/simplified-querying-in-nodejs)
