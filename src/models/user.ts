@@ -10,11 +10,11 @@ export default class Users extends Model {
 	static get relationMappings() {
 		return {
 			posts: {
-				relation: Model.BelongsToOneRelation,
+				relation: Model.HasManyRelation,
 				modelClass: Posts,
 				join: {
-					from: "posts.user_id",
-					to: "users.id",
+					from: "users.id",
+					to: "posts.user_id",
 				},
 			},
 		};
