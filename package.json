@@ -10,15 +10,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AloisCRR/ORM-Test.git"
+    "url": "git+https://github.com/yatiac/ORM-Test.git"
+
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/AloisCRR/ORM-Test/issues"
+    "url": "https://github.com/yatiac/ORM-Test/issues"
   },
-  "homepage": "https://github.com/AloisCRR/ORM-Test#readme",
+  "homepage": "https://github.com/yatiac/ORM-Test#readme",
   "devDependencies": {
     "@prisma/cli": "^2.0.0-beta.8",
     "@types/cors": "^2.8.6",
