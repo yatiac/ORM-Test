@@ -104,6 +104,7 @@ typings/
 .dynamodb/
 
 ### VisualStudioCode ###
+**/.vscode/
 .vscode/*
 !.vscode/settings.json
 !.vscode/tasks.json
@@ -115,4 +116,3 @@ typings/
 .history
 
 # End of https://www.toptal.com/developers/gitignore/api/linux,visualstudiocode,node
-.vscode/settings.json
