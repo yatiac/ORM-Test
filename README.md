@@ -4,19 +4,21 @@
 
 ### Ayuda
 
-1. Documentación
+1. Documentación oficial:
 
     * [Objection.js (Getting started)](https://vincit.github.io/objection.js/guide/getting-started.html)
 
+    * [Knex.js Migrations](http://knexjs.org/#Migrations-CLI)
+    
     * [Objection.js example TypeScript (Official)](https://github.com/Vincit/objection.js/blob/master/examples/koa-ts/app.ts)
 
-    * [Knex.js Migrations](http://knexjs.org/#Migrations-CLI)
+2. Documentación de por ahí:
 
     * [Knex Setup Guide](https://gist.github.com/NigelEarle/80150ff1c50031e59b872baf0e474977)
 
     * [Express + Knex + Objection = Painless API with DB](https://itnext.io/express-knex-objection-painless-api-with-db-74512c484f0c)
 
-    * [Objection + Knex = Painless PostgreSQL in your Node App](https://dev.to/aspittel/objection--knex--painless-postgresql-in-your-node-app--6n6)
+    * [(**Importante**) Objection + Knex = Painless PostgreSQL in your Node App](https://dev.to/aspittel/objection--knex--painless-postgresql-in-your-node-app--6n6)
 
     * [Knex/Express Project Sample](https://github.com/robmclarty/knex-express-project-sample)
 
