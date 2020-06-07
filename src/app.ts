@@ -4,8 +4,10 @@ import bodyParser from "body-parser";
 import Knex from "knex";
 import { Model } from "objection";
 
-const connection = require('../knexfile')
-import Users from './routes/user.routes'
+const connection = require("../knexfile");
+
+import Users from "./routes/user.routes";
+import Posts from "./routes/post.routes";
 
 const knex = Knex(connection.development);
 
@@ -20,6 +22,7 @@ app.use(express.urlencoded({ extended: false }));
 app.use(express.json());
 app.use(bodyParser.json());
 
-app.use('/users', Users)
+app.use("/users", Users);
+app.use("/posts", Posts);
 
 export default app;
