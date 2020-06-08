@@ -33,3 +33,9 @@
 ### Comparaciones
 
 1. [Sequelize vs. TypeORM vs. Objection + Knex](https://www.velotio.com/engineering-blog/simplified-querying-in-nodejs)
+=======
+# ORM-Test
+
+## Rafa
+
+## Alois

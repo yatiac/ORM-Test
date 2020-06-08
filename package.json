@@ -8,6 +8,10 @@
     "dev": "npx tsc -w",
     "start": "nodejs dist/src/index.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yatiac/ORM-Test.git"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
@@ -28,4 +32,8 @@
     "ts-node": "^8.10.2",
     "typescript": "^3.9.5"
   }
+  "bugs": {
+    "url": "https://github.com/yatiac/ORM-Test/issues"
+  },
+  "homepage": "https://github.com/yatiac/ORM-Test#readme"
 }
